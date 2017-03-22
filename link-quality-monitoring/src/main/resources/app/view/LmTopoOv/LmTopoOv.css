@@ -1,0 +1,48 @@
+/* css for PCE web app topology overlay  */
+.radioButtonSpace {
+    margin-left:20px;
+}
+
+/* color:Red */
+#ov-topo svg .link.primary.pColorRed {
+    stroke-width: 4px;
+}
+.light #ov-topo svg .link.primary.pColorRed {
+    stroke: #FF0000;
+}
+.dark #ov-topo svg .link.primary.pColorRed {
+    stroke: #FF0000;
+}
+
+/* color:Yellow */
+#ov-topo svg .link.primary.pColorYellow {
+    stroke-width: 4px;
+}
+.light #ov-topo svg .link.primary.pColorYellow {
+    stroke: #fce94f;
+}
+.dark #ov-topo svg .link.primary.pColorYellow {
+    stroke: #fce94f;
+}
+
+/* color:Orange */
+#ov-topo svg .link.primary.pColorOrange {
+    stroke-width: 4px;
+}
+.light #ov-topo svg .link.primary.pColorOrange {
+    stroke: #f57900;
+}
+.dark #ov-topo svg .link.primary.pColorOrange {
+    stroke: #f57900;
+}
+
+/* color:Green */
+#ov-topo svg .link.primary.pColorGreen {
+    stroke-width: 4px;
+}
+.light #ov-topo svg .link.primary.pColorGreen {
+    stroke: #4e9a06;
+}
+.dark #ov-topo svg .link.primary.pColorGreen {
+    stroke: #4e9a06;
+}

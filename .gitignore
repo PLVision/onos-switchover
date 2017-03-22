@@ -1,0 +1,16 @@
+link-quality-monitoring/target/classes
+link-quality-monitoring/target/oar
+link-quality-monitoring/target/surefire-reports
+link-quality-monitoring/target/test-classes
+link-quality-monitoring/target/generated-sources
+link-quality-monitoring/target/generated-test-sources
+
+switchover-forwarding/target/classes
+switchover-forwarding/target/oar
+switchover-forwarding/target/surefire-reports
+switchover-forwarding/target/test-classes
+switchover-forwarding/target/generated-sources
+switchover-forwarding/target/generated-test-sources
+
+*.jar
+*~
